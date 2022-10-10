@@ -1,31 +1,22 @@
-
-> Abra esta pagina en [https://josejuansanchez.github.io/curso_microbit/](https://josejuansanchez.github.io/curso_microbit/)
-
 ## Usar como extensión
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
 
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/josejuansanchez/curso_microbit** e importar
+* Abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Haga clic en **New Project**
+* Haga clic en **Extensiones** en el menú del engranaje
+* Buscar **https://github.com/josejuansanchez/curso_microbit** e importar
 
-## Edita este proyecto ![Insignia de estado de compilación](https://github.com/josejuansanchez/curso_microbit/workflows/MakeCode/badge.svg)
+## Edita este proyecto
 
 Para editar este repositorio en MakeCode.
 
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/josejuansanchez/curso_microbit** y haga clic en importar
+* Abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Haga clic en **Import** luego haga clic en **Import URL**
+* Pegue **https://github.com/josejuansanchez/curso_microbit** y haga clic en importar
 
 ## Vista previa de bloques
 
 Esta imagen muestra el código de los bloques de la última confirmación en master.
-Esta imagen puede tardar unos minutos en actualizarse.
 
-![Una vista renderizada de los bloques](https://github.com/josejuansanchez/curso_microbit/raw/master/.github/makecode/blocks.png)
-
-#### Metadatos (utilizados para búsqueda, renderizado)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+![](https://github.com/josejuansanchez/curso_microbit_actividad_01/blob/master/screenshot/pantallazo01.png)
